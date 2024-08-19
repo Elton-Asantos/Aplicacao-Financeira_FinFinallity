@@ -1,2 +1,2 @@
-# Aplica-o-Financeira_FinFanillity
+# Aplicação_Financeira_FinFanillity
 Uma aplicação de gestão financeira
